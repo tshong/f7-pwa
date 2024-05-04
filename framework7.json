@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Users\\i20496\\IdeaProjects\\framework7-pwa",
+  "type": [
+    "web",
+    "pwa"
+  ],
+  "name": "HelloPWA",
+  "framework": "vue",
+  "template": "tabs",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
